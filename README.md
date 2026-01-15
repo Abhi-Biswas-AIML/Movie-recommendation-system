@@ -3,7 +3,7 @@
 A web-based machine learning application that recommends movies based on content similarity. Built with Python and Streamlit.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movie-recommendation-system-gzna3chhbuatsnyfrc6hkg.streamlit.app/)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🔗 Live Demo
